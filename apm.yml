@@ -1,0 +1,10 @@
+name: constructivism
+version: "1.0.0"
+description: 日本語ドキュメントの目的・読者・メッセージから最適な文書構成（章立て）を選び骨子を出力するスキル
+author: asuka1975
+license: MIT
+keywords: [documentation, japanese, structure, writing]
+type: skill
+targets:
+  - claude
+  - copilot

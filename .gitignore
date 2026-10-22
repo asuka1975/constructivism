@@ -1,0 +1,4 @@
+# APM が生成する配置先（直接編集しない）
+.claude/
+.agents/
+apm_modules/
